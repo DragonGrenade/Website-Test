@@ -1,0 +1,45 @@
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div#contact-info-container{
+    background-color: #000;
+    color: #fff;
+}
+
+span.phone-num{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 1.05rem;
+    padding: 6px;
+}
+div span.telephone-label{
+    background-image: url("../images/baseline_phone_white_36dp.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-size: 12px;
+    padding: 12px;  
+}
+div span.email-label{
+    background-image: url("../images/baseline_email_white_36dp.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-size: 12px;
+    padding: 12px;  
+}
+
+span.email-info{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 1.05rem;
+    padding: 6px;
+}
+div.cont-row{
+    margin: 0;
+    padding: 5px;
+}
